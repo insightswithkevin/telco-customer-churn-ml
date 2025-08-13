@@ -67,5 +67,3 @@ The entire project is written in **Python**, with a focus on clarity, business r
 
 - 📦 Source: IBM Sample Data – [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - 💡 7043 customer records, 21 features incl. demographics, services, and contract info
-
----
