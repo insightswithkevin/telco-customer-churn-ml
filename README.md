@@ -60,6 +60,9 @@ The entire project is written in **Python**, with a focus on clarity, business r
 - Built a hybrid workflow combining **EDA, statistics, and ML**
 - Practiced **model interpretability and stakeholder-ready communication**
 - Gained practical insight into **real-world customer behavior patterns**
+
+---
+
 ## 📁 Dataset Info
 
 - 📦 Source: IBM Sample Data – [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
